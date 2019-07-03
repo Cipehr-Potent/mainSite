@@ -2275,3 +2275,21 @@ input, select, textarea {
 			  flex: 100%;
 			}
 		  }
+
+
+		  .table:hover{
+			background: #1b5075;
+			color:#fff;
+		}
+
+		.table a:hover{
+			background-color: #4DC453;
+			color: #fff;
+			font-weight:bold;
+		}
+
+		.col:hover{
+			background: grey;
+		}
+
+
